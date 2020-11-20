@@ -22,11 +22,13 @@ Scripts for the unlabeled dataset
 - Preprocessing 
 - Propensity score matching
 - Prediction of CAFPAs
-- Expert cluster prediction 
-- Unlabeled data prediction 
+- Clusters for labels 
+- Clusters for unlabeled data 
 - Corresponding plots 
 
 ## CAFPA_PLOT 
 contains the MATLAB scripts to generate the CAFPA plots 
 - seperately for each model
 
+# Data availability
+According to the data usage agreement of the authors, the datasets analyzed in this study can only be shared upon motivated request.
