@@ -1,6 +1,6 @@
 # "Predicting Common Audiological Functional Parameters as intermediate representation in a clinical decision support system for audiology"
 
- Samira K. Saak, Mareike Buhl, Andrea Hildebrandt, Birger Kollmeier
+### Samira K. Saak, Mareike Buhl, Andrea Hildebrandt, Birger Kollmeier
 ---------------------------------------------------------------------------------------------
 
 ## ABSTRACT
@@ -30,5 +30,5 @@ Scripts for the unlabeled dataset
 contains the MATLAB scripts to generate the CAFPA plots 
 - seperately for each model
 
-# Data availability
+#### Data availability
 According to the data usage agreement of the authors, the datasets analyzed in this study can only be shared upon motivated request.
