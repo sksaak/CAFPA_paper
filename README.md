@@ -20,6 +20,7 @@ Scripts for labeled dataset
 ## EV 
 Scripts for the unlabeled dataset 
 - Preprocessing 
+- Propensity score matching
 - Prediction of CAFPAs
 - Expert cluster prediction 
 - Unlabeled data prediction 
@@ -27,8 +28,5 @@ Scripts for the unlabeled dataset
 
 ## CAFPA_PLOT 
 contains the MATLAB scripts to generate the CAFPA plots 
-- seperately for each model and generally 
+- seperately for each model
 
-## PSM_R\
-scripts for propensity score matching 
-- and CAFPA prediction with matched dataset 
