@@ -10,14 +10,14 @@ The application of machine learning for the development of clinical decision-sup
 ----------------------------------------------------------------------------------------------
 ## The code for reproducing the analysis can be found in the folders, that is:  
 
-## MB
+## MB (model building)
 Scripts for labeled dataset 
 - Preprocessing
 - Model building (Lasso, Elastic Net and Random Forests)
 - Variable Importance
 - Corresponding plots 
 
-## EV 
+## EV (evaluation on unlabeled dataset)
 Scripts for the unlabeled dataset 
 - Preprocessing 
 - Propensity score matching
